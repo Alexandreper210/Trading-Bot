@@ -1,5 +1,5 @@
 """
-🤖 TRADING BOT ML - MULTI-PAIR
+ TRADING BOT ML - MULTI-PAIR
 ================================
 Bot de trading automatique utilisant Machine Learning
 
@@ -520,7 +520,7 @@ def run_realtime_scanner(interval=60):  # ← Ajoutez le paramètre interval
 # ==========================================
 def print_help():
     print("""
-🤖 TRADING BOT ML - Multi-Pair
+TRADING BOT ML - Multi-Pair
 ================================
 
 Commands:
@@ -528,8 +528,8 @@ Commands:
     backtest <pair|all>    Run backtest(s)
     analyze <pair>         Deep analysis of a pair
     
-    scan [interval]        🔍 Real-time scanner (1 position)
-    live                   🤖 Multi-pair bot (up to 3 positions)
+    scan [interval]        Real-time scanner (1 position)
+    live                   Multi-pair bot (up to 3 positions)
     
     help                   Show this help
 
